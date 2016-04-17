@@ -1,0 +1,26 @@
+{
+  "name": "lengthy",
+  "version": "1.0.0",
+  "description": "Create arrays at a certain length",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supercrabtree/lengthy.git"
+  },
+  "keywords": [
+    "array",
+    "length",
+    "create",
+    "make",
+    "construct"
+  ],
+  "author": "George Crabtree <supercrabtree@googlemail.com> (https://github.com/supercrabtree)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supercrabtree/lengthy/issues"
+  },
+  "homepage": "https://github.com/supercrabtree/lengthy"
+}
