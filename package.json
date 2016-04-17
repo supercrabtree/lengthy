@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/supercrabtree/lengthy/issues"
   },
-  "homepage": "https://github.com/supercrabtree/lengthy"
+  "homepage": "https://github.com/supercrabtree/lengthy",
+  "devDependencies": {
+    "ava": "0.14.0"
+  }
 }
