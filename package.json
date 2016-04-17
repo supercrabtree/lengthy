@@ -1,6 +1,6 @@
 {
   "name": "lengthy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create arrays at a certain length",
   "main": "index.js",
   "scripts": {
