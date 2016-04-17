@@ -20,6 +20,8 @@ Lengthy saves the day with simple syntax:
 
 So you can create all kinds of fun one liners.
 
-`const randData = Lengthy(1000).map((val, i) => Math.PI * index)`
+`const randData = Lengthy(1000).map((val, i) => Math.PI * i)`
 
 Good times 🙂️
+
+`npm install lengthy`
