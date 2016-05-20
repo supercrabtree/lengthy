@@ -4,7 +4,8 @@
   "description": "Create arrays at a certain length",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "start": "ava --watch"
   },
   "repository": {
     "type": "git",
