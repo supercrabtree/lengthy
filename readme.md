@@ -1,5 +1,7 @@
 ![lengthy-header](https://raw.githubusercontent.com/supercrabtree/lengthy/master/media/lengthy-header.jpg)
 
+[![Build Status](https://travis-ci.org/supercrabtree/lengthy.svg?branch=master)](https://travis-ci.org/supercrabtree/lengthy)
+
 Although you can create arrays at a certain length using
 
 `Array(5)`
