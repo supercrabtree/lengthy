@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/supercrabtree/lengthy.svg?branch=master)](https://travis-ci.org/supercrabtree/lengthy)
 
+Lengthy provides a similar mechanism to Ruby's `times`, but without extending
+the prototype of number.
+
 Although you can create arrays at a certain length using
 
 `Array(5)`

@@ -1,7 +1,7 @@
 {
   "name": "lengthy",
   "version": "1.0.2",
-  "description": "Create arrays at a certain length",
+  "description": "Just like ruby's times, but with no hacky prototype stuff.",
   "main": "index.js",
   "scripts": {
     "test": "ava",
@@ -14,6 +14,8 @@
   "keywords": [
     "array",
     "length",
+    "size",
+    "times",
     "create",
     "make",
     "construct"
