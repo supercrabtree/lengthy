@@ -13,3 +13,10 @@ test('Lengthy creates arrays that are iterable', t => {
   t.plan(10);
   Lengthy(10).forEach(() => t.pass());
 });
+
+test('Lengthy creates arrays which every value is the same as its key', t => {
+  t.plan(10);
+  Lengthy(10).forEach((value, key) => {
+    if (key === value) t.pass();
+  });
+});

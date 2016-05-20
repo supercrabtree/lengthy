@@ -22,6 +22,11 @@ So you can create all kinds of fun one liners.
 
 `const randData = Lengthy(1000).map((val, i) => Math.PI * i)`
 
+Lengthy sets the value of the array to the same as the key, this means that you
+can rewrite the above a little simpler:
+
+`const randData = Lengthy(1000).map(i => Math.PI * i)`
+
 Good times 🙂️
 
 `npm install lengthy`
